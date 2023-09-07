@@ -95,7 +95,7 @@
 
 <p><img src="https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&count_private=true&theme=dark" alt="letschers" align="left" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,jupyter%20notebook&exclude_repo=wp-plugin,wp-project,achadoseperdidos" align="center" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,jupyter%20notebook&exclude_repo=wp-plugin,wp-project,achadoseperdidos,python-lol" align="center" /></p>
 
 
 
