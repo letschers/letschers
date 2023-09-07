@@ -95,17 +95,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-one-kappa.vercel.app?user=letschers&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<picture>
-    <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&layout=compact&theme=dark&hide=CSS,HTML"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&layout=compact&theme=dark&hide=CSS,HTML"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&layout=compact&theme=dark&hide=CSS,HTML" />
-</picture>
+[![Letschers's github stats](https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&layout=compact&theme=dark&hide=CSS,HTML&)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
