@@ -107,13 +107,13 @@
 
 <picture>
     <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&theme=dark&layout=compact"
+      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&theme=dark&layout=compact&hide=html,css,scss"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&layout=compact"
+      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&layout=compact&hide=html,css,scss"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&layout=compact" />
+    <img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&layout=compact&hide=html,css,scss" />
 </picture>
 
