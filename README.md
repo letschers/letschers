@@ -96,7 +96,7 @@
 
 [![Letschers's github stats](https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
