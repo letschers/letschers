@@ -17,6 +17,14 @@
 <hr>
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=letschers&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="reonardoleis" align="left" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=letschers&amp;show_icons=true&amp;locale=en" alt="reonardoleis" align="center" /></p>
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=letschers&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=letschers&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=letschers&show_icons=true" />
+</picture>
