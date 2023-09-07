@@ -31,7 +31,7 @@
 
 <picture>
     <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
     />
 </picture>
+
