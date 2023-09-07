@@ -93,7 +93,7 @@
 <hr>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-one-kappa.vercel.app?user=letschers)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-one-kappa.vercel.app?user=letschers&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <picture>
     <source
