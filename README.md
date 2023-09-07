@@ -93,10 +93,10 @@
 <hr>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-one-kappa.vercel.app?user=letschers&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Letschers's github stats](https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&layout=compact&theme=dark&hide=CSS,HTML&)](https://github.com/anuraghazra/github-readme-stats)
+[![Letschers's github stats](https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
