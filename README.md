@@ -93,10 +93,10 @@
 <hr>
 <br>
 
+<img src="https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&theme=dark">
 
-[![Letschers's github stats](https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,php,python">
 
-[![Top Langs](https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,php,python)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
