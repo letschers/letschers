@@ -105,15 +105,6 @@
     <img src="https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&show_icons=true" />
 </picture>
 
-<picture>
-    <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&theme=dark&layout=compact&hide=CSS&hide=Html&hide=SCSS"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&layout=compact&hide=CSS&hide=Html&hide=SCSS"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=letschers&show_icons=true&layout=compact&hide=CSS&hide=Html&hide=SCSS" />
-</picture>
+<img alt="letschers's Top Languages" src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs?username=Hud0shnik&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
+
 
