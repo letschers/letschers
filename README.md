@@ -93,9 +93,9 @@
 <hr>
 <br>
 
-<p><img src="https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&theme=dark" /></p>
+<p><img src="https://github-readme-stats-theta-sooty-81.vercel.app/api?username=letschers&theme=dark" alt="letschers" align="left" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,php,python" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-theta-sooty-81.vercel.app/api/top-langs/?username=letschers&layout=compact&theme=dark&hide=html,css,scss,php,python" align="center" /></p>
 
 
 
