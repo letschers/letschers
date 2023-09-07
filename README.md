@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letschers&label=Profile%20views&color=0e75b6&style=flat" alt="letschers" /> </p>
 
+<p>I am a software engineer currently working at <a href="https://jarbas.ai">Jarbas.ai</a>, an AI-powered creative assistant.</p>
+<p>I have experience with software engineering, distributed systems, message queues, REST APIs, relational databases and Google Cloud Platform.</p>
 
 
 <h3 align="left">Connect with me:</h3>
